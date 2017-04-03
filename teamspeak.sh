@@ -1,4 +1,5 @@
 #!/bin/bash
+apt-get install figlet
 cd /usr/local/src/
 clear
 
